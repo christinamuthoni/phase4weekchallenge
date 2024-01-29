@@ -1,4 +1,5 @@
-Flask Code Challenge - Superheroes
+Flask Code Challenge - Superheroes.
+
 Welcome to the Phase 4 Flask Code Challenge.
 This project involves expanding a Flask application for tracking heroes and their superpowers. The goal is to fulfill specific deliverables outlined below.
 
